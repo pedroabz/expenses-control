@@ -17,9 +17,7 @@ export const HeaderContent = styled(Box)({
 })
 
 export const LogoImage = styled('img')({
-  width: '100%',
-  maxWidth: '100px',
-  height: 'auto',
+  height: '3rem',
 })
 
 export const NewTransactionButton = styled(Button)(({ theme }) => ({
