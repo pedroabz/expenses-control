@@ -1,10 +1,10 @@
 // themes/muiTheme.ts
-import { createTheme } from '@mui/material/styles';
+import { createTheme } from '@mui/material/styles'
 
 export const defaultTheme = createTheme({
   palette: {
     common: {
-      white: '#fff'
+      white: '#fff',
     },
     grey: {
       100: '#E1E1E6',
@@ -27,4 +27,4 @@ export const defaultTheme = createTheme({
       700: '#7A1921',
     },
   },
-});
+})
