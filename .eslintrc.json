@@ -49,14 +49,7 @@
       "jsx-a11y/aria-unsupported-elements": "warn",
       "jsx-a11y/role-has-required-aria-props": "warn",
       "jsx-a11y/role-supports-aria-props": "warn",
-      "react/no-unknown-property": "error",
-      "@typescript-eslint/no-unused-vars": ["error", {
-        "argsIgnorePattern": "^_",
-        "varsIgnorePattern": "^_",
-        "ignoreRestSiblings": true
-      }],
-      "no-use-before-define": "off",
-      "@typescript-eslint/no-use-before-define": ["error"]
+      "react/no-unknown-property": "error"
     },
     "settings": {
       "react": {
